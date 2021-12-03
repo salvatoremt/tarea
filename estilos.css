@@ -1,0 +1,55 @@
+*{/*ajuste general*/
+  background:rgba(255, 21, 79, 0.644);
+    font-family:verdana;
+  }
+
+  table
+{
+/*ajustes de la tabla*/
+  border-collapse: collapse;
+  width: 600px;
+    margin: auto;
+    padding: 10px 70px;
+    margin-top: 10px;
+}
+
+th
+{/*ajuste de th*/
+  border-right: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  padding: 0.5em;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+td{
+border: 1px solid #fff;
+padding: .5em;
+background-color:rgba(0, 0, 0, 0.4);
+width:200px;
+text-align: center;
+
+}
+.table h3{
+padding: .5em;
+background-color:rgba(0, 0, 0, 0.4);
+width:200px;
+text-align: center;
+}
+
+.imagen{
+  width: 28%;
+  
+}
+/*ajustes de imagen*/
+.imagen img{
+  width: 200%;
+  padding: 0px 0px 0px 300px;
+  
+  
+    }
+/*ajuste de titulo escolares*/
+.imagen h3{
+  padding: .5em;
+  width: 1300px;
+  text-align: center;
+  }
